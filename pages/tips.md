@@ -12,3 +12,6 @@
     2. ps: não compre um notebook pesado ou que tenha 15 polegadas de tela, mobilidade é a tudo.
 4. **Procure estágio antes do 5º semestre**
     1. A máteria de estágio é no 7º semestre, procure um estágio antes. voce aida tem que aprender coisas que voce nunca viu e nem sempre é facil de achar um estágio.
+
+5. **Não espere terminar a faculdade para empreender**
+    1. Se quer criar uma empresa ou tem uma ideia de projeto, não espere finalizar a faculdade para iniciar, quanto mais rápido você testar e validar o seu negócio melhor, a probabilidade de não acertarmos na primeira ideia é gigantesca, então quanto mais cedo começar mais rápido falha e mais rápido aprende, outros prós é que provavelmente você não será cobrado socialmente (enquanto ainda está em casa, ou não tem boletos para pagar 😅) as pessoas tendem a te apoiar mais. Então comece já, monte sua equipe e mande bala.
