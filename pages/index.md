@@ -1,5 +1,6 @@
 # Sistemas de Informação
-Agrupamento de informações sobre curso de sistemas. 
+Agrupamento de informações sobre curso de sistemas, 
+[Contribua Aqui pelo github](https://github.com/UNEB-SI/uneb-si.github.io).
 
 ## [Professores](/teachers.html)
 Informações de contato de cada professor
@@ -11,4 +12,3 @@ Informações de cada disciplinas.
 Sobrevivencia é tudo.
 
 
-[Contribua Aqui pelo github](https://github.com/UNEB-SI/uneb-si.github.io)
