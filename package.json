@@ -19,6 +19,6 @@
   "homepage": "https://github.com/UNEB-SI/uneb-si.github.io#readme",
   "devDependencies": {
     "gh-pages": "^2.0.1",
-    "markgen": "^1.1.0"
+    "markgen": "^1.2.1"
   }
 }
