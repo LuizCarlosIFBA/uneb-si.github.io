@@ -12,11 +12,26 @@
     
        <style>
            .markdown-body {
+               background-color: white;
                box-sizing: border-box;
                min-width: 200px;
                max-width: 980px;
-               margin: 0 auto;
+               min-height: calc( 100vh - 100px );
+               margin: 50px auto;
                padding: 45px;
+               background: #fff;
+               box-shadow:
+                 /* The top layer shadow */
+                 0 -1px 1px rgba(0,0,0,0.15),
+                 /* The second layer */
+                 0 -10px 0 -5px #eee,
+                 /* The second layer shadow */
+                 0 -10px 1px -4px rgba(0,0,0,0.15),
+                 /* The third layer */
+                 0 -20px 0 -10px #eee,
+                 /* The third layer shadow */
+                 0 -20px 1px -9px rgba(0,0,0,0.15);
+                 /* Padding for demo purposes */
            }
       
            @media (max-width: 767px) {
@@ -24,11 +39,17 @@
                    padding: 15px;
                }
            }
+           html {
+             background-color: darkslategrey;
+           }
+
+          
+          
        </style>
      </head>
-     <body>
-         <article class="markdown-body">
-         <h1 id="sistemas-de-informação">Sistemas de Informação</h1>
+     <body>    
+              <article class="markdown-body">
+              <h1 id="sistemas-de-informação">Sistemas de Informação</h1>
 <p>Agrupamento de informações sobre curso de sistemas. </p>
 <h2 id="professores"><a href="/teachers.html">Professores</a></h2>
 <p>Informações de contato de cada professor</p>
@@ -38,7 +59,7 @@
 <p>Sobrevivencia é tudo.</p>
 <p><a href="https://github.com/UNEB-SI/uneb-si.github.io">Contribua Aqui pelo github</a></p>
 
-         </article>
+              </article>
      </body>
      </html>
      
